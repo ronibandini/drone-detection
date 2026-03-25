@@ -1,5 +1,6 @@
 # Dispositivos maker para detectar drones y reaccionar
 
+<img width="800" height="1127" alt="DispositivosMakerParaDetectarDrones" src="https://github.com/user-attachments/assets/9759b5fb-a384-4d50-8d2e-3c9245c2cfe4" />
 
 **Estos proyectos fueron preparados para el  PRIMER SIMPOSIO INTERNACIONAL DE CIBERSEGURIDAD ECC-UCM COLOMBIA** **Autor:** Roni Bandini
 
