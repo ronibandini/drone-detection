@@ -1,7 +1,7 @@
 # Dispositivos maker para detectar drones y reaccionar
 
 
-**Estos proyectos fueron preparados para el  PRIMER SIMPOSIO INTERNACIONAL DE CIBERSEGURIDAD ECC-UCM COLOMBIA, sin embargo por diferencias con la organización decidí no participar** **Autor:** Roni Bandini
+**Estos proyectos fueron preparados para el  PRIMER SIMPOSIO INTERNACIONAL DE CIBERSEGURIDAD ECC-UCM COLOMBIA** **Autor:** Roni Bandini
 
 ---
 
